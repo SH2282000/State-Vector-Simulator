@@ -1,7 +1,5 @@
 [![CI](https://github.com/SH2282000/State-Vector-Simulator/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SH2282000/State-Vector-Simulator/actions/workflows/ci.yml)
 
-I can help you create a comprehensive `README.md` for your project. Here is a draft based on the information you provided:
-
 # State Vector Simulator
 
 Project of a state vector simulator developed in the context of the Quantum Computing practicum of LMU.
@@ -71,7 +69,7 @@ Please take a look at the `tests/test_template.py` for more insights on how to u
 - Santo Thies
 
 ## License
-
+```txt
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
