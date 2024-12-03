@@ -1,0 +1,10 @@
+// Ignore all files and directories that match the following patterns.
+outputs/
+__pycache__/
+.idea/
+build/
+QCP/template/build/
+cython_debug/
+QCP/template/*.c
+QCP/template/*.html
+QCP/template/*.so

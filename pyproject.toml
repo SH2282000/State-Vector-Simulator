@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "aaronson"
+version = "0.1.0"
+description = ""
+authors = ["Shannah Santucci <mahmoud-santucci.shannah@siemens.com>"]
+readme = "README.md"
+packages = [{ include = "QCP" }]
+
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+numpy = "^2.1.1"
+pytest = "^8.3.3"
+matplotlib = "^3.9.2"
+pre-commit = "^3.8.0"
+scipy = "^1.14.1"
+pandas = "^2.2.3"
+seaborn = "^0.13.2"
+cython = "^3.0.11"
+setuptools = "^75.1.0"
+joblib = "^1.4.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.6.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

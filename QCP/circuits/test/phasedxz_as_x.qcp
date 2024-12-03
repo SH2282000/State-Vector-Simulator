@@ -1,0 +1,5 @@
+// Phased XZ gate as X gate
+1
+phasedXZ 1,0,0 0
+// TEST: [1,0], [0,1]
+// TEST: [0,1], [1,0]

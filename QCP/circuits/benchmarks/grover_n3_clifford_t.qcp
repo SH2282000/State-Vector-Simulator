@@ -1,0 +1,68 @@
+3
+h 2
+t 2
+cx 0 1
+h 0
+tdg 0
+cx 2 0
+t 0
+h 1
+t 1
+cx 1 0
+tdg 0
+cx 2 0
+t 0
+cx 2 1
+tdg 1
+cx 2 1
+cx 0 1
+h 0
+tdg 0
+h 2
+tdg 2
+h 1
+tdg 1
+cx 2 0
+tdg 0
+cx 1 0
+tdg 0
+cx 2 0
+tdg 0
+cx 2 1
+tdg 1
+cx 2 1
+cx 0 1
+h 0
+tdg 0
+h 2
+t 2
+h 1
+t 1
+cx 2 0
+t 0
+cx 1 0
+tdg 0
+cx 2 0
+t 0
+cx 2 1
+tdg 1
+cx 2 1
+cx 0 1
+h 0
+tdg 0
+h 2
+tdg 2
+h 1
+tdg 1
+cx 2 0
+tdg 0
+cx 1 0
+tdg 0
+cx 2 0
+tdg 0
+h 0
+cx 2 1
+tdg 1
+cx 2 1
+h 1
+h 2

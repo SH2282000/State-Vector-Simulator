@@ -1,0 +1,9 @@
+// Hadamard Gate (p.11)
+1
+h 0
+// TEST: [1,0], [1/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [0,1], [1/np.sqrt(2), -1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), 1/np.sqrt(2)], [1,0]
+// TEST: [1/np.sqrt(2), -1/np.sqrt(2)], [0,1]
+// TEST: [1/np.sqrt(2), 1j/np.sqrt(2)], [0.5+0.5j, 0.5-0.5j]
+// TEST: [1/np.sqrt(2), -1j/np.sqrt(2)], [0.5-0.5j, 0.5+0.5j]

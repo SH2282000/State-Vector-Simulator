@@ -1,0 +1,9 @@
+// Rotation Gate R_x (p.12) with angle 2*pi
+1
+rx 2*pi 0
+// TEST: [1,0], [-1,0]
+// TEST: [0,1], [0,-1]
+// TEST: [1/np.sqrt(2), 1/np.sqrt(2)], [-1/np.sqrt(2), -1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1/np.sqrt(2)], [-1/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), 1j/np.sqrt(2)], [-1/np.sqrt(2), -1j/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1j/np.sqrt(2)], [-1/np.sqrt(2), 1j/np.sqrt(2)]

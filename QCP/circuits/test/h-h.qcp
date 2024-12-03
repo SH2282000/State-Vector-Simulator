@@ -1,0 +1,10 @@
+// Hadamard Gate (Self-Inverse Check)
+1
+h 0
+h 0
+// TEST: [1,0], [1,0]
+// TEST: [0,1], [0,1]
+// TEST: [1/np.sqrt(2), 1/np.sqrt(2)], [1/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1/np.sqrt(2)], [1/np.sqrt(2), -1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), 1j/np.sqrt(2)], [1/np.sqrt(2), 1j/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1j/np.sqrt(2)], [1/np.sqrt(2), -1j/np.sqrt(2)]

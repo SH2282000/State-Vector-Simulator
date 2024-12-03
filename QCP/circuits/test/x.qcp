@@ -1,0 +1,9 @@
+// X Gate (p.10)
+1
+x 0
+// TEST: [1,0], [0,1]
+// TEST: [0,1], [1,0]
+// TEST: [1/np.sqrt(2), 1/np.sqrt(2)], [1/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1/np.sqrt(2)], [-1/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), 1j/np.sqrt(2)], [1j/np.sqrt(2), 1/np.sqrt(2)]
+// TEST: [1/np.sqrt(2), -1j/np.sqrt(2)], [-1j/np.sqrt(2), 1/np.sqrt(2)]
