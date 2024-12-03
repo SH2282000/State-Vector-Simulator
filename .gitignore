@@ -8,3 +8,6 @@ cython_debug/
 QCP/template/*.c
 QCP/template/*.html
 QCP/template/*.so
+
+# Others
+.vscode/
